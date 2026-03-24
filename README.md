@@ -23,7 +23,6 @@
 > **[undertale-combat-engine](https://github.com/Oreo80/undertale-ribbit-edition)** | state machine + real-time systems in `C++` with `SFML` <br>
 > **[asp.net-ecommerce-platform](https://github.com/Oreo80/aspnetcore-ecommerce-ai)** | mvc architecture, rbac implementation & gemini ai integration | built w/ [@ModernityRejecter](https://github.com/ModernityRejecter) <br>
 > **[x86-memory-allocator-sim](https://github.com/Oreo80/memory-sim)** | manual memory management & defragmentation in `assembly` <br>
-> **[cpu-scheduling-sim](https://github.com/Oreo80/scheduler-sim)** | classic OS scheduling algorithms in `C` <br>
 > **[bash-html-formatter](https://github.com/Oreo80/bash-html-formatter)** | zero-dependency parsing tool
 
 ### $ cat current_status
